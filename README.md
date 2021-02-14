@@ -17,8 +17,8 @@ Outros programas complementares criados são:
 O programa [cliente](https://github.com/Blaldas/Trabalho-Pratico-Programacao-Distribuida-Cliente).
 
 - 2ª Meta
-O programa [Cliente RMI](https://github.com/Blaldas/Trabalho-Pratico-Programacao-Distribuida-Cliente-RMI);
-O programa [Observador RMI](https://github.com/Blaldas/Trabalho-Pratico-Programacao-Distribuida-Observador-RMI).
+ O programa [Cliente RMI](https://github.com/Blaldas/Trabalho-Pratico-Programacao-Distribuida-Cliente-RMI);
+ O programa [Observador RMI](https://github.com/Blaldas/Trabalho-Pratico-Programacao-Distribuida-Observador-RMI).
 
 
 # Caracteristicas
